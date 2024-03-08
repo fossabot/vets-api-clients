@@ -1,4 +1,6 @@
 # vets-api-clients (VA Lighthouse APIs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fvets-api-clients.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fvets-api-clients?ref=badge_shield)
+
 
 Welcome to the repository for consumers of **VA Lighthouse APIs**. It includes API specifications, sample clients, and general access information. This README was last updated December 2020. For the most up-to-date Lighthouse API documentation, please visit developer.va.gov/explore. API documentation found in this repo may be outdated.
 
@@ -66,3 +68,7 @@ If you have any questions or need further assistance, please visit our [support 
 ## Incident and Outage Awareness (Statuspage)
 
 Please visit and subscribe to alerts from the [VA Lighthouse Statuspage](https://valighthouse.statuspage.io/) for up-to-the minute reports on API and gateway functionality. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fvets-api-clients.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fvets-api-clients?ref=badge_large)
